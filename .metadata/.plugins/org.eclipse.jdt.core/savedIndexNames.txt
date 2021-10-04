@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\WINDOWS 10 PRO\Desktop\java-orientação-a-objetos\.metadata\.plugins\org.eclipse.jdt.core
+753035125.index
+2702459774.index
